@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "81pNRjeyzMccW7HnICpw/WAMb1SEudfMGTPUiRVoqG4=",
+  "Source": "BridgetDinning.Api",
+  "BasePath": "_content/BridgetDinning.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

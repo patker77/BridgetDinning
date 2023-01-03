@@ -1,0 +1,12 @@
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/bin/Debug/net7.0/BridgetDinning.Domain.deps.json
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/bin/Debug/net7.0/BridgetDinning.Domain.dll
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/bin/Debug/net7.0/BridgetDinning.Domain.pdb
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/obj/Debug/net7.0/BridgetDinning.Domain.csproj.AssemblyReference.cache
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/obj/Debug/net7.0/BridgetDinning.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/obj/Debug/net7.0/BridgetDinning.Domain.AssemblyInfoInputs.cache
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/obj/Debug/net7.0/BridgetDinning.Domain.AssemblyInfo.cs
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/obj/Debug/net7.0/BridgetDinning.Domain.csproj.CoreCompileInputs.cache
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/obj/Debug/net7.0/BridgetDinning.Domain.dll
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/obj/Debug/net7.0/refint/BridgetDinning.Domain.dll
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/obj/Debug/net7.0/BridgetDinning.Domain.pdb
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/obj/Debug/net7.0/ref/BridgetDinning.Domain.dll

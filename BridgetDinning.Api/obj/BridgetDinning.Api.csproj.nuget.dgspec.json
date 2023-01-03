@@ -1,0 +1,306 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Api/BridgetDinning.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Api/BridgetDinning.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Api/BridgetDinning.Api.csproj",
+        "projectName": "BridgetDinning.Api",
+        "projectPath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Api/BridgetDinning.Api.csproj",
+        "packagesPath": "/Users/brinaawuah/.nuget/packages/",
+        "outputPath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brinaawuah/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Application/BridgetDinning.Application.csproj": {
+                "projectPath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Application/BridgetDinning.Application.csproj"
+              },
+              "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/BridgetDinning.Contrats.csproj": {
+                "projectPath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/BridgetDinning.Contrats.csproj"
+              },
+              "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/BridgetDinning.Infrastructure.csproj": {
+                "projectPath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/BridgetDinning.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Application/BridgetDinning.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Application/BridgetDinning.Application.csproj",
+        "projectName": "BridgetDinning.Application",
+        "projectPath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Application/BridgetDinning.Application.csproj",
+        "packagesPath": "/Users/brinaawuah/.nuget/packages/",
+        "outputPath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brinaawuah/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/BridgetDinning.Domain.csproj": {
+                "projectPath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/BridgetDinning.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/BridgetDinning.Contrats.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/BridgetDinning.Contrats.csproj",
+        "projectName": "BridgetDinning.Contrats",
+        "projectPath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/BridgetDinning.Contrats.csproj",
+        "packagesPath": "/Users/brinaawuah/.nuget/packages/",
+        "outputPath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brinaawuah/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/BridgetDinning.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/BridgetDinning.Domain.csproj",
+        "projectName": "BridgetDinning.Domain",
+        "projectPath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/BridgetDinning.Domain.csproj",
+        "packagesPath": "/Users/brinaawuah/.nuget/packages/",
+        "outputPath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brinaawuah/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/BridgetDinning.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/BridgetDinning.Infrastructure.csproj",
+        "projectName": "BridgetDinning.Infrastructure",
+        "projectPath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/BridgetDinning.Infrastructure.csproj",
+        "packagesPath": "/Users/brinaawuah/.nuget/packages/",
+        "outputPath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/brinaawuah/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Application/BridgetDinning.Application.csproj": {
+                "projectPath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Application/BridgetDinning.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

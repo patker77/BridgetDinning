@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDFSkKE2Yfhng6GdpddISmc0FhROXiiXFgxhks+O0yQL4HLLwO3PzO2kn+WipDfkcBhnuVgVjkLzLdxifVBSCg==",
+  "success": true,
+  "projectFilePath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Api/BridgetDinning.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/brinaawuah/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/brinaawuah/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/bin/Debug/net7.0/BridgetDinning.Contrats.deps.json
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/bin/Debug/net7.0/BridgetDinning.Contrats.dll
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/bin/Debug/net7.0/BridgetDinning.Contrats.pdb
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/obj/Debug/net7.0/BridgetDinning.Contrats.csproj.AssemblyReference.cache
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/obj/Debug/net7.0/BridgetDinning.Contrats.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/obj/Debug/net7.0/BridgetDinning.Contrats.AssemblyInfoInputs.cache
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/obj/Debug/net7.0/BridgetDinning.Contrats.AssemblyInfo.cs
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/obj/Debug/net7.0/BridgetDinning.Contrats.csproj.CoreCompileInputs.cache
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/obj/Debug/net7.0/BridgetDinning.Contrats.dll
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/obj/Debug/net7.0/refint/BridgetDinning.Contrats.dll
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/obj/Debug/net7.0/BridgetDinning.Contrats.pdb
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Contrats/obj/Debug/net7.0/ref/BridgetDinning.Contrats.dll

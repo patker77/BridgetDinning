@@ -1,0 +1,17 @@
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/bin/Debug/net7.0/BridgetDinning.Infrastructure.deps.json
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/bin/Debug/net7.0/BridgetDinning.Infrastructure.dll
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/bin/Debug/net7.0/BridgetDinning.Infrastructure.pdb
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/obj/Debug/net7.0/BridgetDinning.Infrastructure.csproj.AssemblyReference.cache
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/obj/Debug/net7.0/BridgetDinning.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/obj/Debug/net7.0/BridgetDinning.Infrastructure.AssemblyInfoInputs.cache
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/obj/Debug/net7.0/BridgetDinning.Infrastructure.AssemblyInfo.cs
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/obj/Debug/net7.0/BridgetDinning.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/obj/Debug/net7.0/BridgetDinning.Infrastructure.dll
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/obj/Debug/net7.0/refint/BridgetDinning.Infrastructure.dll
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/obj/Debug/net7.0/BridgetDinning.Infrastructure.pdb
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/obj/Debug/net7.0/ref/BridgetDinning.Infrastructure.dll
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/bin/Debug/net7.0/BridgetDinning.Application.dll
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/bin/Debug/net7.0/BridgetDinning.Domain.dll
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/bin/Debug/net7.0/BridgetDinning.Application.pdb
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/bin/Debug/net7.0/BridgetDinning.Domain.pdb
+/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/obj/Debug/net7.0/BridgetDinning.Infrastructure.csproj.CopyComplete

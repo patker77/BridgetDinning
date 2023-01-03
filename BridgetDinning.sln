@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgetDinning.Api", "BridgetDinning.Api\BridgetDinning.Api.csproj", "{4C4B730F-63F1-407B-8E36-6DEA04353F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgetDinning.Application", "BridgetDinning.Application\BridgetDinning.Application.csproj", "{D7BD6C9C-8AF2-4A8C-83D1-3317D96EE4FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgetDinning.Domain", "BridgetDinning.Domain\BridgetDinning.Domain.csproj", "{2902D784-4EE4-40CD-B122-4CAA777FE0B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgetDinning.Contrats", "BridgetDinning.Contrats\BridgetDinning.Contrats.csproj", "{AFEAF345-A941-46E0-9327-E4D724DDECA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgetDinning.Infrastructure", "BridgetDinning.Infrastructure\BridgetDinning.Infrastructure.csproj", "{9337A60E-A3B2-4F67-AD15-2D933A4E3FF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C4B730F-63F1-407B-8E36-6DEA04353F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4B730F-63F1-407B-8E36-6DEA04353F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4B730F-63F1-407B-8E36-6DEA04353F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4B730F-63F1-407B-8E36-6DEA04353F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7BD6C9C-8AF2-4A8C-83D1-3317D96EE4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BD6C9C-8AF2-4A8C-83D1-3317D96EE4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BD6C9C-8AF2-4A8C-83D1-3317D96EE4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BD6C9C-8AF2-4A8C-83D1-3317D96EE4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2902D784-4EE4-40CD-B122-4CAA777FE0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2902D784-4EE4-40CD-B122-4CAA777FE0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2902D784-4EE4-40CD-B122-4CAA777FE0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2902D784-4EE4-40CD-B122-4CAA777FE0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFEAF345-A941-46E0-9327-E4D724DDECA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEAF345-A941-46E0-9327-E4D724DDECA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEAF345-A941-46E0-9327-E4D724DDECA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEAF345-A941-46E0-9327-E4D724DDECA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9337A60E-A3B2-4F67-AD15-2D933A4E3FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9337A60E-A3B2-4F67-AD15-2D933A4E3FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9337A60E-A3B2-4F67-AD15-2D933A4E3FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9337A60E-A3B2-4F67-AD15-2D933A4E3FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

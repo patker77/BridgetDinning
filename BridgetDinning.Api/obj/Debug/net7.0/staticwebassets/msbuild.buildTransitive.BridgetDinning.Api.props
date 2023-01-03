@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/BridgetDinning.Api.props" />
+</Project>

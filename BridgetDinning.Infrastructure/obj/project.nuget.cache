@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bg60MociYYKZrENMWh2tLPM/uv1nKjOzjHcdlRxy9bzNrYRxzyojzyDxG2WElBhQjKSo7Uc8Qp6zFA7eyT9Xng==",
+  "success": true,
+  "projectFilePath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Infrastructure/BridgetDinning.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/brinaawuah/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/brinaawuah/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

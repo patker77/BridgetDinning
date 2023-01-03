@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BridgetDinning.Contrats/1.0.0": {
+        "runtime": {
+          "BridgetDinning.Contrats.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BridgetDinning.Contrats/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
