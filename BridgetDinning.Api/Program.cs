@@ -1,5 +1,4 @@
 using BridgetDinning.Application;
-using BridgetDinning.Application.Services.Authentication;
 using BridgetDinning.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);

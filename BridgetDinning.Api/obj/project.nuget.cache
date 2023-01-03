@@ -1,11 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "VDFSkKE2Yfhng6GdpddISmc0FhROXiiXFgxhks+O0yQL4HLLwO3PzO2kn+WipDfkcBhnuVgVjkLzLdxifVBSCg==",
+  "dgSpecHash": "TJYxVlNJ2kvryTatiiN2bmv0VV3D+isc5L9vB1Ab0k81m3YXDFm9fds3TMMNTfualZ8OR/bpBUtvnsaLmkKVjw==",
   "success": true,
   "projectFilePath": "/Users/brinaawuah/development/BridgetDinning/BridgetDinning.Api/BridgetDinning.Api.csproj",
   "expectedPackageFiles": [
+    "/Users/brinaawuah/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/brinaawuah/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
-    "/Users/brinaawuah/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "/Users/brinaawuah/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/brinaawuah/.nuget/packages/microsoft.identitymodel.abstractions/6.25.1/microsoft.identitymodel.abstractions.6.25.1.nupkg.sha512",
+    "/Users/brinaawuah/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.25.1/microsoft.identitymodel.jsonwebtokens.6.25.1.nupkg.sha512",
+    "/Users/brinaawuah/.nuget/packages/microsoft.identitymodel.logging/6.25.1/microsoft.identitymodel.logging.6.25.1.nupkg.sha512",
+    "/Users/brinaawuah/.nuget/packages/microsoft.identitymodel.tokens/6.25.1/microsoft.identitymodel.tokens.6.25.1.nupkg.sha512",
+    "/Users/brinaawuah/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/brinaawuah/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/brinaawuah/.nuget/packages/system.identitymodel.tokens.jwt/6.25.1/system.identitymodel.tokens.jwt.6.25.1.nupkg.sha512",
+    "/Users/brinaawuah/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/brinaawuah/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/Users/brinaawuah/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/brinaawuah/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
   ],
   "logs": []
 }

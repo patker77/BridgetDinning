@@ -34,7 +34,6 @@ namespace BridgetDinning.Api.Controllers
                 result.FirstName,
                 result.LastName,
                 result.Email,
-                result.Password,
                 result.Token
             );
             return Ok(reponse);
@@ -51,7 +50,6 @@ namespace BridgetDinning.Api.Controllers
                 result.FirstName,
                 result.LastName,
                 result.Email,
-                result.Password,
                 result.Token
             );
             return Ok(reponse);
